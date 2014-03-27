@@ -27,7 +27,7 @@ public class MainActivity extends SherlockActivity{
 		setTheme(R.style.Theme_Sherlock_Light);
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.main_activity);
-		
+		//teste
 		editTextWeight = (EditText) findViewById(R.id.editTextWeight);
 		editTextHeight = (EditText) findViewById(R.id.editTextHeight);
 		
