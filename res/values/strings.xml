@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">IMCCalculator</string>
+    <string name="VeryUnderweight">Muito abaixo do peso</string>
+    <string name="UnderWeight">Abaixo do peso</string>
+    <string name="NormalWeight">Peso normal</string>
+    <string name="Overweight">Acima do peso</string>
+    <string name="ObesityI">Obesidade I</string>
+    <string name="ObesityII">Obesidade II (severa)</string>
+    <string name="ObesityIII">Obesidade III (mórbida)</string>
+    <string name="InformHeight">Informe sua altura</string>
+    <string name="InformWeight">Informe seu peso</string>
+    <string name="Calculate">Calcular</string>
+    <string name="Clear">Limpar</string>
+    <string name="PresentationText">Preencha os campos acima e clique em calcular para descobrir o seu IMC!</string>
+	<string name="InTheMomentYourIMCRepresents">No momento, seu IMC representa:</string>
+</resources>
